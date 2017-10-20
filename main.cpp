@@ -105,3 +105,12 @@ void Goldbach(int Arg) {
 		cout << "Ingrese un numero apropiado :P \n";
 	}
 }
+/*
+		  /\___/\
+		 /  ^   ^\
+		 \    u  /
+		  =======
+		  |     |
+		  |     |
+		  []---[]
+*/
