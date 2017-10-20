@@ -11,6 +11,7 @@ bool isFactor(int, int);
 int main() {
 	//op siginifica opcion
 	int op = 0;
+	//Arg siginifica Argumento
 	int Arg = 0;
 	//a y b, son factores del ejericio 2
 	int a = 0;
