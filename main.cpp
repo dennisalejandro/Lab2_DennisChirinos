@@ -9,6 +9,7 @@ void Goldbach(int);
 bool isFactor(int, int);
 
 int main() {
+	//op siginifica opcion
 	int op = 0;
 	int Arg = 0;
 	int a = 0;
