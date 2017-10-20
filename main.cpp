@@ -22,6 +22,7 @@ int main() {
 	//a y b, son factores del ejericio 2
 	int a = 0;
 	int b = 0;
+	//while principal
 	while (op!=4) {
 		cout << "Ingrese opcion: \n";
         cout << "------------------\n";
