@@ -2,10 +2,15 @@
 #include <string>
 using namespace std;
 
+//Revisa si el numero es primo
 bool isPrime(int);
+// Suma todos los numeros primos del 0 hasta el Argumento
 int SumaPrime(int);
+// Suma todos los numeros que sean multiplo de los factores
 int Suma(int, int, int);
+//Imprime todos los numeros de la conjetura de Goldback del 2 al 150
 void Goldbach(int);
+// Solo devuelve (Num%OtroNumero == 0)... tengo sueño
 bool isFactor(int, int);
 
 int main() {
