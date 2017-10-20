@@ -12,6 +12,7 @@ int main() {
 	//op siginifica opcion
 	int op = 0;
 	int Arg = 0;
+	//a y b, son factores del ejericio 2
 	int a = 0;
 	int b = 0;
 	while (op!=4) {
